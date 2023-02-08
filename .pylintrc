@@ -1,0 +1,2 @@
+[MAIN]
+disable = W0311, snake_case
