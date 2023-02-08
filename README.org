@@ -1,0 +1,9 @@
+#+title: PyReverse
+
+#+begin_quote
+🐚 A Command & Control Shell Written In Python
+#+end_quote
+
+* Features
+- Currently rewritten to extend its features (As of now its functional)
++ Cross platform can be run anywhere where python exists (or can be compiled and packaged with [[https://github.com/Nuitka/Nuitka][Nuitka]] or [[https://github.com/pyinstaller/pyinstaller][pyinstaller]] ..)
